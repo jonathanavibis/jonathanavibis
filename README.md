@@ -3,8 +3,8 @@
   <p><strong>Aspiring Full-Stack Developer & Tech Enthusiast</strong></p>
   
   <p>
-    <a href="mailto:jonathan.avibd24@gmail.com">
-      <img src="https://img.shields.io/badge/Email-jonathan.avibd24%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:mrjonathan.ab30@gmail.com">
+      <img src="https://img.shields.io/badge/Email-mrjonathan.ab30%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
