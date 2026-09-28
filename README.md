@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Jonathan Avi Biswas 👋</h1>
-  <p><strong>Aspiring Full-Stack Developer & Tech Enthusiast</strong></p>
+  <!-- Profile Dynamic Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=Jonathan%20Avi%20Biswas&fontSize=42&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50&theme=dark" width="100%" alt="Header Banner" />
   
   <p>
     <a href="mailto:mrjonathan.ab30@gmail.com">
@@ -44,3 +44,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathanavibis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Jonathan's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanavibis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanavibis&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
