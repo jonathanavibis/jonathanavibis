@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./banner.svg"
+    src="./git-banners/git-banner.png"
     width="100%"
     alt="Jonathan Avi Biswas - Web Developer"
   />
