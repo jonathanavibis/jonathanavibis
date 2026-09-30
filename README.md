@@ -43,12 +43,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanavibis&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
