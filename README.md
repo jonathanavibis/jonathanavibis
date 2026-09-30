@@ -1,12 +1,11 @@
-<div align="center">
-  <!-- Profile Dynamic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=Jonathan%20Avi%20Biswas&fontSize=42&fontAlignY=38&desc=Aspiring%20Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50&theme=dark" width="100%" alt="Header Banner" />
-  
-  <p>
-    <a href="mailto:mrjonathan.ab30@gmail.com">
-      <img src="https://img.shields.io/badge/Email-mrjonathan.ab30%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<div align="center">  
+<p align="center">
+  <img
+    src="./banner.svg"
+    alt="Jonathan Avi Biswas - Web Developer"
+    width="100%"
+  />
+</p>
 </div>
 
 ---
