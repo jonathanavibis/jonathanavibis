@@ -89,6 +89,8 @@ https://www.instagram.com/jonathanavibis
 ⚫ **Threads:**  
 https://www.threads.com/@jonathanavibis
 
+🔵 **Linkdin:**  
+https://www.threads.com/@jonathanavibis](https://www.linkedin.com/in/jonathanavibiss/
 ---
 
 ## 🚀 Portfolio
