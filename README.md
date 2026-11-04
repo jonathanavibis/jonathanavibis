@@ -12,7 +12,7 @@
 ### Web Developer | React & Next.js Enthusiast
 
 <!-- Dynamic Typing Animation -->
-<a href="https://jonathanavibis.netlify.app/">
+<a href="https://jonathanavibis.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;React+%26+Next.js+Specialist;TypeScript+%26+Tailwind+CSS+Expert;Crafting+Modern+%26+Responsive+Web+Apps" alt="Typing SVG" />
 </a>
 
@@ -27,7 +27,7 @@
 
 <!-- Social & Contact Badges -->
 <p align="center">
-  <a href="https://jonathanavibis.netlify.app/" target="_blank">
+  <a href="https://jonathanavibis.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-050909?style=for-the-badge&logo=googlechrome&logoColor=00FFAA" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/jonathanavibiss/" target="_blank">
@@ -110,7 +110,7 @@ With a strong eye for clean UI/UX and structured architecture, I enjoy transform
 | **📚 FavBook** | Modern book management platform with full catalog & reviews | React, TypeScript, Node.js, Express | [Client](https://github.com/jonathanavibis/favbook-a08) • [Server](https://github.com/jonathanavibis/favbook-server-a08) |
 | **🛒 Bazar Dor Web** | Real-time Bangladeshi market commodity price tracker | JavaScript, Responsive UI, Web APIs | [Repository](https://github.com/jonathanavibis/bazar-dor-web) |
 | **🛠️ Dev Stack Builder** | Interactive tool for developers to explore and build tech stacks | React, JavaScript, Modern CSS | [Repository](https://github.com/jonathanavibis/dev-stack-builder) |
-| **🌐 Portfolio Website** | Personal developer portfolio showcasing projects and skills | Next.js, React, Tailwind CSS | [Live Demo](https://jonathanavibis.netlify.app/) • [Code](https://github.com/jonathanavibis/jonathanavibis-portfolio) |
+| **🌐 Portfolio Website** | Personal developer portfolio showcasing projects and skills | Next.js, React, Tailwind CSS | [Live Demo](https://jonathanavibis.vercel.app/) • [Code](https://github.com/jonathanavibis/jonathanavibis-portfolio) |
 
 ---
 
@@ -145,7 +145,7 @@ With a strong eye for clean UI/UX and structured architecture, I enjoy transform
   <a href="mailto:mrjonathan.ab30@gmail.com">
     <img src="https://img.shields.io/badge/Say_Hello-00FFAA?style=for-the-badge&logo=mail.ru&logoColor=050909" alt="Say Hello" />
   </a>
-  <a href="https://jonathanavibis.netlify.app/">
+  <a href="https://jonathanavibis.vercel.app/">
     <img src="https://img.shields.io/badge/Explore_Portfolio-050909?style=for-the-badge&logo=googlechrome&logoColor=00FFAA" alt="Explore Portfolio" />
   </a>
 </p>
